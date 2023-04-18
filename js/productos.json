@@ -1,0 +1,242 @@
+[
+  {
+    "id": "pc-01",
+    "titulo": "NOTEBOOK ASUS GAMING",
+    "imagen": "./img/pc/01.jpg",
+    "categoria": {
+      "nombre": "Pc",
+      "id": "pc"
+    },
+    "precio": 289990
+  },
+  {
+    "id": "pc-02",
+    "titulo": "NOTEBOOK GIGABYTE AORUS",
+    "imagen": "./img/pc/02.jpg",
+    "categoria": {
+      "nombre": "Pc",
+      "id": "pc"
+    },
+    "precio": 750400
+  },
+  {
+    "id": "pc-03",
+    "titulo": "PC AMD RYZEN 3 4100 8GB",
+    "imagen": "./img/pc/03.jpg",
+    "categoria": {
+      "nombre": "Pc",
+      "id": "pc"
+    },
+    "precio": 170600
+  },
+  {
+    "id": "pc-04",
+    "titulo": "PC INTEL CELERON DUAL",
+    "imagen": "./img/pc/04.jpg",
+    "categoria": {
+      "nombre": "Pc",
+      "id": "pc"
+    },
+    "precio": 145000
+  },
+  {
+    "id": "pc-05",
+    "titulo": "PC INTEL I3 HD GRAPHICS",
+    "imagen": "./img/pc/05.jpg",
+    "categoria": {
+      "nombre": "Pc",
+      "id": "pc"
+    },
+    "precio": 170400
+  },
+  {
+    "id": "pc-06",
+    "titulo": "NOTEBOOK GIGABYTE G5 I5",
+    "imagen": "./img/pc/06.jpg",
+    "categoria": {
+      "nombre": "Pc",
+      "id": "pc"
+    },
+    "precio": 479990
+  },
+  {
+    "id": "pc-07",
+    "titulo": "PC AMD ATHLON 3000G",
+    "imagen": "./img/pc/07.jpg",
+    "categoria": {
+      "nombre": "Pc",
+      "id": "pc"
+    },
+    "precio": 140500
+  },
+  {
+    "id": "pc-08",
+    "titulo": "PC AMD RYZEN 5 5600G",
+    "imagen": "./img/pc/08.jpg",
+    "categoria": {
+      "nombre": "Pc",
+      "id": "pc"
+    },
+    "precio": 180000
+  },
+  {
+    "id": "hardware-01",
+    "titulo": "FAN COOLER CPU COOLER",
+    "imagen": "./img/hardware/01.jpg",
+    "categoria": {
+      "nombre": "Hardware",
+      "id": "hardware"
+    },
+    "precio": 74500
+  },
+  {
+    "id": "hardware-02",
+    "titulo": "WD BLACK 1TB",
+    "imagen": "./img/hardware/02.jpg",
+    "categoria": {
+      "nombre": "Hardware",
+      "id": "hardware"
+    },
+    "precio": 27000
+  },
+  {
+    "id": "hardware-03",
+    "titulo": "FUENTE CYLON RGB 500W",
+    "imagen": "./img/hardware/03.jpg",
+    "categoria": {
+      "nombre": "Hardware",
+      "id": "hardware"
+    },
+    "precio": 24000
+  },
+  {
+    "id": "hardware-04",
+    "titulo": "GABINETE RGB 550W",
+    "imagen": "./img/hardware/04.jpg",
+    "categoria": {
+      "nombre": "Hardware",
+      "id": "hardware"
+    },
+    "precio": 30000
+  },
+  {
+    "id": "hardware-05",
+    "titulo": "DDR4 16GB PATRIOT VIPER",
+    "imagen": "./img/hardware/05.jpg",
+    "categoria": {
+      "nombre": "Hardware",
+      "id": "hardware"
+    },
+    "precio": 35000
+  },
+  {
+    "id": "hardware-06",
+    "titulo": "AMD RYZEN 5 5500 ZEN3",
+    "imagen": "./img/hardware/06.jpg",
+    "categoria": {
+      "nombre": "Hardware",
+      "id": "hardware"
+    },
+    "precio": 52900
+  },
+  {
+    "id": "hardware-07",
+    "titulo": "MOTHERBOARD MSI PLUS",
+    "imagen": "./img/hardware/07.jpg",
+    "categoria": {
+      "nombre": "Hardware",
+      "id": "hardware"
+    },
+    "precio": 62000
+  },
+  {
+    "id": "hardware-08",
+    "titulo": "INTEL I3 10THGEN",
+    "imagen": "./img/hardware/08.jpg",
+    "categoria": {
+      "nombre": "Hardware",
+      "id": "hardware"
+    },
+    "precio": 34500
+  },
+  {
+    "id": "perifericos-01",
+    "titulo": "AURICULAR RED DRAGON",
+    "imagen": "./img/perifericos/01.jpg",
+    "categoria": {
+      "nombre": "Perifericos",
+      "id": "perifericos"
+    },
+    "precio": 16500
+  },
+  {
+    "id": "perifericos-02",
+    "titulo": "MICROFONO HYPERX",
+    "imagen": "./img/perifericos/02.jpg",
+    "categoria": {
+      "nombre": "Perifericos",
+      "id": "perifericos"
+    },
+    "precio": 37000
+  },
+  {
+    "id": "perifericos-03",
+    "titulo": "AURICULAR HAYLOU X1 PRO",
+    "imagen": "./img/perifericos/03.jpg",
+    "categoria": {
+      "nombre": "Perifericos",
+      "id": "perifericos"
+    },
+    "precio": 10990
+  },
+  {
+    "id": "perifericos-04",
+    "titulo": "MOUSE GAME PRO GM-01",
+    "imagen": "./img/perifericos/04.jpg",
+    "categoria": {
+      "nombre": "Perifericos",
+      "id": "perifericos"
+    },
+    "precio": 4609
+  },
+  {
+    "id": "perifericos-05",
+    "titulo": "AURICULAR KLIP XTREME",
+    "imagen": "./img/perifericos/05.jpg",
+    "categoria": {
+      "nombre": "Perifericos",
+      "id": "perifericos"
+    },
+    "precio": 6929
+  },
+  {
+    "id": "perifericos-06",
+    "titulo": "TECLADO Y MOUSE LOGITECH",
+    "imagen": "./img/perifericos/06.jpg",
+    "categoria": {
+      "nombre": "Perifericos",
+      "id": "perifericos"
+    },
+    "precio": 11990
+  },
+  {
+    "id": "perifericos-07",
+    "titulo": "MICRO CONDENSER P/PC",
+    "imagen": "./img/perifericos/07.jpg",
+    "categoria": {
+      "nombre": "Perifericos",
+      "id": "perifericos"
+    },
+    "precio": 16159
+  },
+  {
+    "id": "perifericos-08",
+    "titulo": "TECLADO PATRIOT VIPER",
+    "imagen": "./img/perifericos/08.jpg",
+    "categoria": {
+      "nombre": "Perifericos",
+      "id": "perifericos"
+    },
+    "precio": 17309
+  }
+]
